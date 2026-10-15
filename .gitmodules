@@ -1,0 +1,15 @@
+[submodule "TalkNet_ASD"]
+	path = TalkNet_ASD
+	url = https://github.com/TaoRuijie/TalkNet-ASD
+[submodule "Light_ASD"]
+	path = Light_ASD
+	url = https://github.com/Junhua-Liao/Light-ASD
+[submodule "LR_ASD"]
+	path = LR_ASD
+	url = https://github.com/Junhua-Liao/LR-ASD.git
+[submodule "loconet_asd"]
+	path = loconet_asd
+	url = https://github.com/sjtuwxz/loconet_asd
+[submodule "LoCoNet_ASD"]
+	path = LoCoNet_ASD
+	url = https://github.com/SJTUwxz/LoCoNet_ASD.git

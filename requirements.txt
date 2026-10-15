@@ -1,0 +1,13 @@
+dotenv
+termcolor
+tornado
+python_speech_features
+numpy==1.26.4
+opencv-python
+scipy
+pandas
+tqdm
+sherpa-onnx
+
+# 人脸检测后端（仅 Linux/macOS 有官方 wheel；Windows 无发行物）
+inspireface
